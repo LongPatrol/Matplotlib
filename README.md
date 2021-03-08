@@ -11,13 +11,20 @@ We found that:
 
 ## Number of measurements taken per drug:
 
+![Bar chart](https://github.com/LongPatrol/Matplotlib/blob/main/Images/Bar%20chart.png)
+
 ## Distribution of male and female mice:
+![Pie chart](https://github.com/LongPatrol/Matplotlib/blob/main/Images/Pie%20chart.png)
 
 ## Distribution of tumor volume in most promising drugs:
+![Box plot](https://github.com/LongPatrol/Matplotlib/blob/main/Images/Box%20plot.png)
 
 ## Example of one mouse's experience with Capomulin:
+![Line graph](https://github.com/LongPatrol/Matplotlib/blob/main/Images/Line%20graph.png)
+
 
 ## Tumor volume in relation to mouse weight (Capomulin):
+![Regression chart](https://github.com/LongPatrol/Matplotlib/blob/main/Images/Regression.png)
 
 ### Sources:
 
